@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nigel from Zimbabwe
-- 👀 Interested in Manual & Autonated Software Testing, Software Development and Technical Support
+- 👀 Interested in Manual & Automated Software Testing, Software Development and Technical Support
 - 🌱 Currently learning Software Testing via JUnit5 and Selenium, Frontend Web development via Javascript(React)
 - 💞️ Looking to collaborate on Web App Development, Software Testing and Technical Support
 - 📫 How to reach me: panasheinfotech@gmail.com
