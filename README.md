@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nigel from Zimbabwe
-- 👀 I’m interested in All things programming
-- 🌱 I’m currently learning Web development via Javascript, Data Analysis via Python and a bit of Java
-- 💞️ I’m looking to collaborate on Web App development, Data analysis and Visualization, Native app development
+- 👀 Interested in Manual & Autonated Software Testing, Software Development and Technical Support
+- 🌱 Currently learning Software Testing via JUnit5 and Selenium, Frontend Web development via Javascript(React)
+- 💞️ Looking to collaborate on Web App Development, Software Testing and Technical Support
 - 📫 How to reach me: panasheinfotech@gmail.com
 - ⚡ Fun fact: Experimental
 
