@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nigel from Zimbabwe
 - 👀 Interested in Software Development, Testing and IT Infrastructure management
 - 🌱 Currently learning Software Testing, Frontend Web development, Database Administration
-- 💞️ Looking to collaborate in Java|Javascript|SQL|Python
+- 💞️ Looking to collaborate in Java | Javascript | SQL | Python
 - 📫 How to reach me: panasheinfotech@gmail.com
 - ⚡ Fun fact: Experimental
 
